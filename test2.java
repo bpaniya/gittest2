@@ -2,7 +2,7 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“Hey,test is not over”);
+System.out.println(“Hey,test is not over yet”);
 }
 }
 
